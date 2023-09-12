@@ -69,6 +69,7 @@ class _LineItemsState extends State<LineItems> {
                           child: FilledButton(
                             child: const Text('Create Item'),
                             onPressed: () {
+                              print('dvdv');
                               //Navigator.pop(context);
                               //   FirebaseDatabase.instance.ref().child('users/${FirebaseAuth.instance.currentUser!.uid}/')
                             },
