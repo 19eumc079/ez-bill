@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "742316322244",
+    "project_id": "ezbill-52779",
+    "storage_bucket": "ezbill-52779.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:742316322244:android:a760a790d2e93e59f30891",
+        "android_client_info": {
+          "package_name": "com.example.ezbill"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "742316322244-qpnlcpaviljo07ofa8ujl1cbgo1o34ib.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwx1tHnZ-gN_eOyiD8LDrozBltDgObBqY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "742316322244-qpnlcpaviljo07ofa8ujl1cbgo1o34ib.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
