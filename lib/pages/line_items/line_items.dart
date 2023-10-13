@@ -2,7 +2,7 @@ import 'package:ezbill/pages/contacts/contacts_components/contacts_components.da
 import 'package:ezbill/styles/colors.dart';
 import 'package:ezbill/styles/fonts.dart';
 import 'package:firebase_auth/firebase_auth.dart';
-import 'package:firebase_database/firebase_database.dart';
+// import 'package:firebase_database/firebase_database.dart';
 import 'package:flutter/material.dart';
 
 class LineItems extends StatefulWidget {
